@@ -3,7 +3,7 @@
 **Developer:** Jaya Khan 
 
 ## Abstract
-This program uses a nested loop to print out a `*` from largest number entered by user to smallest. The first loop iterates over the number in reverse order and the second loop prints the `*` up to the current iteration count.
+This program uses a nested loop to print out a `*` from largest number entered by user to smallest number i.e. 1. The first loop iterates over the number in reverse order and the second loop prints the `*` up to the current iteration count.
 
 
 
