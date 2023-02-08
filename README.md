@@ -1,4 +1,4 @@
-# Print Inverted Traingles from largest to smallest number.
+# Print Inverted Triangles.
 
 **Developer:** Jaya Khan 
 
@@ -32,4 +32,5 @@ The code was tested on:
     ### Command to uninstall rust
     rustup self uninstall
 
-## Command to run program: `cargo run`
+## Command to run program: 
+`cargo run`
